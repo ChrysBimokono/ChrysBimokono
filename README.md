@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrysBimokono
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data analytics,and web Dev
+- 👀 I’m a self-taught Programmer and Data Analyst
+- 🌱 I’m currently working as a Shopify Expert 
 
 
 <!---
