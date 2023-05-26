@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrysBimokono
 - 👀 I’m a self-taught Programmer and Data Analyst
-- 🌱 I’m currently working as a Shopify Expert 
+- 🌱 I’m currently working as a Devops Engineer
 
 
 <!---
